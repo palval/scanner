@@ -24,13 +24,6 @@
   "suggest": {
     "league/csv": "^8.0"
   },
-  "version": "1.0.0",
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/palval/scanner"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "Palval\\Scanner\\": "src/"
