@@ -33,7 +33,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "Palval\\": "src/"
+      "Palval\\Scanner\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.0"
     }
   }
 }
