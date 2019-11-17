@@ -1,5 +1,5 @@
 <?php
-namespace Palval\Scanner;
+namespace Palval;
 
 class Scanner
 {
